@@ -2,7 +2,7 @@
 ===================================
 *by* VALLEJO VALLÉS, MARINA
 
-The Python script `htt17_library.py`  generates a library of sequences containing all the single nucleotide mutations for the Htt17 sequence. This library is necessary to perform a deep mutagenesis project. The script can be used with any other sequence in a FASTA file format.
+The Python script `htt17_library.py`  generates a library of sequences containing all the single nucleotide mutations in the Htt17 sequence. This library is necessary to perform a deep mutagenesis project. The script can be used with any other sequence in a FASTA file format.
 
 Input files: 
 
